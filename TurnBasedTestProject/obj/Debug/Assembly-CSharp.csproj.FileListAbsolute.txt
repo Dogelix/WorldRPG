@@ -1,0 +1,42 @@
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEditor.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Unity.DataContract.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.xml
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEditor.xml
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Other\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Other\TurnBasedTestProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Other\TurnBasedTestProject\obj\Debug\Assembly-CSharp.dll
+D:\Other\TurnBasedTestProject\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\obj\Debug\Assembly-CSharp.dll
+C:\Users\Windows 7\Desktop\TurnBasedTestProject\obj\Debug\Assembly-CSharp.pdb

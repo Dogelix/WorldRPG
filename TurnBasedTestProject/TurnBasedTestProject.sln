@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7FBC7411-0907-A40C-38C0-BB3F20294F4D}") = "TurnBasedTestProject", "Assembly-CSharp.csproj", "{FF709AEA-D6BE-5CDC-653D-150470ED5C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF709AEA-D6BE-5CDC-653D-150470ED5C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF709AEA-D6BE-5CDC-653D-150470ED5C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF709AEA-D6BE-5CDC-653D-150470ED5C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF709AEA-D6BE-5CDC-653D-150470ED5C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
